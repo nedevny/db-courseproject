@@ -1,0 +1,16 @@
+C:\Users\Udavnika\Documents\Visual Studio 2012\Projects\Databases\ReadZipFiles\WhiskeySour\SupermarketOpenAccess.Model\bin\Debug\SupermarketOpenAccess.Model.dll.config
+C:\Users\Udavnika\Documents\Visual Studio 2012\Projects\Databases\ReadZipFiles\WhiskeySour\SupermarketOpenAccess.Model\bin\Debug\SupermarketOpenAccess.Model.dll
+C:\Users\Udavnika\Documents\Visual Studio 2012\Projects\Databases\ReadZipFiles\WhiskeySour\SupermarketOpenAccess.Model\bin\Debug\SupermarketOpenAccess.Model.pdb
+C:\Users\Udavnika\Documents\Visual Studio 2012\Projects\Databases\ReadZipFiles\WhiskeySour\SupermarketOpenAccess.Model\bin\Debug\Telerik.OpenAccess.35.Extensions.dll
+C:\Users\Udavnika\Documents\Visual Studio 2012\Projects\Databases\ReadZipFiles\WhiskeySour\SupermarketOpenAccess.Model\bin\Debug\Telerik.OpenAccess.35.Extensions.xml
+C:\Users\Udavnika\Documents\Visual Studio 2012\Projects\Databases\ReadZipFiles\WhiskeySour\SupermarketOpenAccess.Model\obj\Debug\SupermarketOpenAccess.Model.csprojResolveAssemblyReference.cache
+C:\Users\Udavnika\Documents\Visual Studio 2012\Projects\Databases\ReadZipFiles\WhiskeySour\SupermarketOpenAccess.Model\obj\Debug\SupermarketOpenAccess.Model.dll
+C:\Users\Udavnika\Documents\Visual Studio 2012\Projects\Databases\ReadZipFiles\WhiskeySour\SupermarketOpenAccess.Model\obj\Debug\SupermarketOpenAccess.Model.pdb
+C:\Users\Nedko\Desktop\DB Team Project\WhiskeySour\SupermarketOpenAccess.Model\bin\Debug\SupermarketOpenAccess.Model.dll.config
+C:\Users\Nedko\Desktop\DB Team Project\WhiskeySour\SupermarketOpenAccess.Model\bin\Debug\SupermarketOpenAccess.Model.dll
+C:\Users\Nedko\Desktop\DB Team Project\WhiskeySour\SupermarketOpenAccess.Model\bin\Debug\SupermarketOpenAccess.Model.pdb
+C:\Users\Nedko\Desktop\DB Team Project\WhiskeySour\SupermarketOpenAccess.Model\bin\Debug\Telerik.OpenAccess.35.Extensions.dll
+C:\Users\Nedko\Desktop\DB Team Project\WhiskeySour\SupermarketOpenAccess.Model\bin\Debug\Telerik.OpenAccess.35.Extensions.xml
+C:\Users\Nedko\Desktop\DB Team Project\WhiskeySour\SupermarketOpenAccess.Model\obj\Debug\SupermarketOpenAccess.Model.csprojResolveAssemblyReference.cache
+C:\Users\Nedko\Desktop\DB Team Project\WhiskeySour\SupermarketOpenAccess.Model\obj\Debug\SupermarketOpenAccess.Model.dll
+C:\Users\Nedko\Desktop\DB Team Project\WhiskeySour\SupermarketOpenAccess.Model\obj\Debug\SupermarketOpenAccess.Model.pdb

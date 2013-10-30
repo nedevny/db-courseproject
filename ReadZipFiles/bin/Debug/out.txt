@@ -1,0 +1,140 @@
+----------------------------------
+20-Jul-2013
+Supermarket "Bourgas - Plaza"
+Product:1
+Quantity:37
+Unit Pric:1
+Sum:37.00
+Product:2
+Quantity:14
+Unit Pric:8.5
+Sum:119.00
+Total Sum:156.00
+----------------------------------
+20-Jul-2013
+Supermarket "Kaspichan - Center"
+Product:3
+Quantity:40
+Unit Pric:1.2
+Sum:48.00
+Product:1
+Quantity:65
+Unit Pric:0.92
+Sum:59.80
+Product:4
+Quantity:12
+Unit Pric:2.9
+Sum:34.80
+Total Sum:142.60
+----------------------------------
+20-Jul-2013
+Supermarket "Bay Ivan" - Zmeyovo
+Product:4
+Quantity:7
+Unit Pric:2.85
+Sum:19.95
+Product:2
+Quantity:4
+Unit Pric:7.8
+Sum:31.20
+Total Sum:51.15
+----------------------------------
+21-Jul-2013
+Supermarket "Bourgas - Plaza"
+Product:1
+Quantity:11
+Unit Pric:1
+Sum:11.00
+Product:2
+Quantity:20
+Unit Pric:8.5
+Sum:170.00
+Total Sum:181.00
+----------------------------------
+21-Jul-2013
+Supermarket "Kaspichan - Center"
+Product:3
+Quantity:43
+Unit Pric:1.2
+Sum:51.60
+Product:1
+Quantity:78
+Unit Pric:0.92
+Sum:71.76
+Product:4
+Quantity:9
+Unit Pric:2.9
+Sum:26.10
+Total Sum:149.46
+----------------------------------
+21-Jul-2013
+Supermarket "Plovdiv - Stolipinovo"
+Product:3
+Quantity:75
+Unit Pric:1.05
+Sum:78.75
+Product:1
+Quantity:146
+Unit Pric:0.88
+Sum:128.48
+Product:2
+Quantity:67
+Unit Pric:7.7
+Sum:515.90
+Total Sum:723.13
+----------------------------------
+21-Jul-2013
+Supermarket "Bay Ivan" - Zmeyovo
+Product:4
+Quantity:5
+Unit Pric:2.85
+Sum:14.25
+Product:2
+Quantity:3
+Unit Pric:7.8
+Sum:23.40
+Total Sum:37.65
+----------------------------------
+22-Jul-2013
+Supermarket "Bourgas - Plaza"
+Product:2
+Quantity:24
+Unit Pric:8.5
+Sum:204.00
+Product:1
+Quantity:16
+Unit Pric:1
+Sum:16.00
+Total Sum:220.00
+----------------------------------
+22-Jul-2013
+Supermarket "Kaspichan - Center"
+Product:1
+Quantity:90
+Unit Pric:0.92
+Sum:82.80
+Product:4
+Quantity:14
+Unit Pric:2.9
+Sum:40.60
+Product:3
+Quantity:18
+Unit Pric:1.2
+Sum:21.60
+Total Sum:145.00
+----------------------------------
+22-Jul-2013
+Supermarket "Plovdiv - Stolipinovo"
+Product:2
+Quantity:12
+Unit Pric:7.7
+Sum:92.40
+Product:3
+Quantity:60
+Unit Pric:1.05
+Sum:63.00
+Product:1
+Quantity:230
+Unit Pric:0.88
+Sum:202.40
+Total Sum:357.80
